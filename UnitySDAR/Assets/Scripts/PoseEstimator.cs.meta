@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3ac9ad65074c244c9666f1126ab599f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoScreen: {instanceID: 0}
+  - posenetShader: {fileID: 7200000, guid: 094a98034d2fd1d489f964be40d92d53, type: 3}
+  - mobileNetModelAsset: {fileID: 5022602860645237092, guid: 14dabf06f8e97684c97a3d97e85a52ff, type: 3}
+  - resnetModelAsset: {fileID: 5022602860645237092, guid: cadb2766ed7671742ba10c8449aaa750, type: 3}
+  - display: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
